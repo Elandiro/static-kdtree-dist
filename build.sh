@@ -13,7 +13,7 @@ mkdir dist/
 npm install static-kdtree@$1
 
 cd node_modules/static-kdtree
-browserify kdtree.js -o  ../../dist/kdtree.js
+browserify kdtree.js --standalone static-kdtree -o  ../../dist/kdtree.js
 
 cp LICENSE ../../LICENSE
 
