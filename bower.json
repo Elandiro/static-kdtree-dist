@@ -1,0 +1,17 @@
+{
+  "name": "static-kdtree-dist",
+  "version": "1.0.1",
+  "authors": [
+    "Kim Gressens <kim@kreativgeek.be>"
+  ],
+  "main": [
+    "dist/kdtree.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build.sh",
+    "node_modules",
+    "bower_components"
+  ]
+}
