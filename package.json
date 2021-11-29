@@ -4,9 +4,6 @@
   "authors": [
     "Kim Gressens <kim@kreativgeek.be>"
   ],
-  "main": [
-    "dist/kdtree.js"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",

@@ -1,1 +1,1 @@
-Browserified bower version of static-kdtree
+Browserified npm version of static-kdtree
